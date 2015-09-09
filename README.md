@@ -1,2 +1,2 @@
 # hello-world
-Test for new repository
+Test for new repository at github
